@@ -21,12 +21,14 @@ print(' ',a,a)
 print('',a,a,a)
 print(a,a,a,a)
 
+print('')
 print('---problema 2---')
 print('n')
 print('n+2 n+2')
 print('n+4 n+4 n+4')
 print('n+6 n+6 n+6 n+6')
 
+print('')
 print('---problema 3---')
 a=1
 b=2
@@ -38,6 +40,7 @@ print('c=',c ,sep='')
 print('d=',d ,sep='')
 print('in saptamana',(a+b+c+d)*7)
 
+print('')
 print('---problema 4---')
 v=10
 g=2*v+8
@@ -46,6 +49,7 @@ print('v=', v, sep='')
 print('g=', g, sep='')
 print('i=', i, sep='') 
 
+print('')
 print('---problema 5---')
 ion=57
 vasile=ion-2, ion-1, ion, ion+1, ion+2
